@@ -5,7 +5,7 @@
 ![Agile Certificate](Agile_certificate.png)
 ## Certificates
 ### Git Simplilearn Certificate
-![Git Simplilearn](GitsSimplilearncertificate.png)
+![Simplilearn Certificate](Gitsimplilearncertificate.png)
 
 
 

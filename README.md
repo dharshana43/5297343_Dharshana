@@ -2,13 +2,13 @@
 
 ## Agile Certificate
 
-![Agile Certificate](Agile_certificate.png)
+![Agile Certificate](5297343_Agile_certificate.png)
+
 ## Certificates
+
 ### Git Simplilearn Certificate
-![Simplilearn Certificate](Gitsimplilearncertificate.png)
 
-
-
+![Simplilearn Certificate](5297343_Git_simplilearn_certificate.png)
 
 
 

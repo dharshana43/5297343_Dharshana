@@ -1,16 +1,11 @@
 # 5297343_Dharshana
 
-## Agile Certificate
-
-![Agile Certificate](5297343_Agile_certificate.png)
+## 5297343_Agile_certificate.png
+![5297343_Agile_certificate.png](5297343_Agile_certificate.png)
 
 ## Certificates
-
-### Git Simplilearn Certificate
-
-![Simplilearn Certificate](5297343_Git_simplilearn_certificate.png)
-
-
+### 5297343_Git_simplilearn_certificate.png
+![5297343_Git_simplilearn_certificate.png](5297343_Git_simplilearn_certificate.png)
 
 
 

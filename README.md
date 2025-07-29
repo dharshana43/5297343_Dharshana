@@ -7,12 +7,16 @@
 ### 5297343_Git_simplilearn_certificate.png
 ![5297343_Git_simplilearn_certificate.png](5297343_Git_simplilearn_certificate.png)
 
-##  Linux Command Practice Screenshots
+## Linux Practice Commands
 
-![Linux Screenshot 1](5297343_linux.png)  
-![Linux Screenshot 2](5297343_linux_commands.png)  
-![Linux Screenshot 3](5297343_linux_remaining_commands.png)
+### Screenshot 1
+![Linux Screenshot 1](linux1.png)
 
+### Screenshot 2
+![Linux Screenshot 2](linux2_remaining.png)
+
+### Screenshot 3
+![Linux Screenshot 3](linux3_commands.png)
 
 
 

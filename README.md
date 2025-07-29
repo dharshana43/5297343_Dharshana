@@ -9,13 +9,13 @@
 
 ## Linux Practice Commands
 
-### Screenshot 1
+### Screenshot 1  
 ![Linux Screenshot 1](linux.png)
 
-### Screenshot 2
-![Linux Screenshot 2](linux2_remaining.png)
+### Screenshot 2  
+![Linux Screenshot 2](linux_remaining.png)
 
-### Screenshot 3
+### Screenshot 3  
 ![Linux Screenshot 3](linux3_commands.png)
 
 

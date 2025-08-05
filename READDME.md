@@ -1,1 +1,0 @@
-![Linux Screenshot](linux.png)

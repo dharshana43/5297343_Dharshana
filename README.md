@@ -30,4 +30,4 @@
 
 ## C programming
 
-![C Sololearn Certificate](Introduction_to_C_Sololearn.png)
+![C Sololearn Certificate](C_Sololearn_Certificate.png)

@@ -16,7 +16,7 @@ char** split_string(char*);
 
 int parse_int(char*);
 
-// 🔹 Prime generator
+
 void generatePrimes(int primes[], int q) {
     int count = 0, num = 2;
     while (count < q) {
@@ -34,7 +34,7 @@ void generatePrimes(int primes[], int q) {
     }
 }
 
-// 🔹 Main solution function
+
 int* waiter(int number_count, int* number, int q, int* result_count) {
     int *result = malloc(number_count * sizeof(int));
     int primes[q];
@@ -44,7 +44,7 @@ int* waiter(int number_count, int* number, int q, int* result_count) {
     int A[number_count], nextA[number_count], B[number_count];
     int topA = number_count;
 
-    // copy initial stack into A
+    
     for (int i = 0; i < number_count; i++) {
         A[i] = number[i];
     }
@@ -52,7 +52,7 @@ int* waiter(int number_count, int* number, int q, int* result_count) {
     for (int i = 0; i < q; i++) {
         int nextTopA = 0, topB = 0;
 
-        // process stack A (from top to bottom)
+        
         for (int j = topA - 1; j >= 0; j--) {
             if (A[j] % primes[i] == 0) {
                 B[topB++] = A[j];
@@ -61,19 +61,19 @@ int* waiter(int number_count, int* number, int q, int* result_count) {
             }
         }
 
-        // pop all from B
+        
         for (int j = topB - 1; j >= 0; j--) {
             result[resIndex++] = B[j];
         }
 
-        // update A for next round
+        
         for (int j = 0; j < nextTopA; j++) {
             A[j] = nextA[j];
         }
         topA = nextTopA;
     }
 
-    // finally pop remaining A
+    
     for (int i = topA - 1; i >= 0; i--) {
         result[resIndex++] = A[i];
     }
@@ -110,7 +110,7 @@ int main()
     return 0;
 }
 
-// 🔹 Utility functions (HackerRank provided)
+
 char* readline() {
     size_t alloc_length = 1024;
     size_t data_length = 0;
